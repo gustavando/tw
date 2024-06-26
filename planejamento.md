@@ -29,7 +29,7 @@ designers, que são um dos perfis de usuários do Alcance. Identificamos a
 necessidade de criar novos tipos de documentos para esse público.
 
 ## Público
---------------------------------------------------------------------------------
+
 Há dois perfis bem específicos que fazem uso da documentação do Alcance.
 
 Um deles são os desenvolvedores front-end, cuja necessidade principal é saber
@@ -41,7 +41,7 @@ disponível, **onde** estão os recursos, **por que** deveriam escolher um ou
 outro recurso, e **como** podem construir protótipos de interfaces.
 
 ## Conhecimento técnico
---------------------------------------------------------------------------------
+
 Quem vai elaborar a documentação do Alcance deve possuir conhecimento sobre:
 * Usabilidade e experiência do usuário.
 * Acessibilidade para web.
@@ -62,4 +62,3 @@ de estar atento a isso e fazer as implementações necessárias para isso.
 * Para captura de telas: recursos nativos do Windows.
 * Para publicação: Storybook
 * Para disponibilizar projetos modelo: git (Gitea)
-* 
